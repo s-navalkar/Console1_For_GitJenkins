@@ -7,7 +7,7 @@ namespace Console1_For_GitJenkins
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! from GIT and Jenkins");
-Console.WriteLine("Second line added to check for auto build from  from GIT and Jenkins");
+Console.WriteLine("Second line added to check for auto build from  from GIT and Jenkins);
 
             //Console.ReadKey();
         }
