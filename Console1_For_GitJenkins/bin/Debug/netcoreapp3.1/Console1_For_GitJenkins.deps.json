@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Console1_For_GitJenkins/1.0.0": {
+        "runtime": {
+          "Console1_For_GitJenkins.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Console1_For_GitJenkins/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

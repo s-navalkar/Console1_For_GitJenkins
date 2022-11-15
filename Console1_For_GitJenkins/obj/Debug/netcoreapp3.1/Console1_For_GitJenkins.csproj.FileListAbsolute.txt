@@ -1,0 +1,14 @@
+C:\Synergetics\CG_DotNet\Console1_For_GitJenkins\Console1_For_GitJenkins\bin\Debug\netcoreapp3.1\Console1_For_GitJenkins.exe
+C:\Synergetics\CG_DotNet\Console1_For_GitJenkins\Console1_For_GitJenkins\bin\Debug\netcoreapp3.1\Console1_For_GitJenkins.deps.json
+C:\Synergetics\CG_DotNet\Console1_For_GitJenkins\Console1_For_GitJenkins\bin\Debug\netcoreapp3.1\Console1_For_GitJenkins.runtimeconfig.json
+C:\Synergetics\CG_DotNet\Console1_For_GitJenkins\Console1_For_GitJenkins\bin\Debug\netcoreapp3.1\Console1_For_GitJenkins.runtimeconfig.dev.json
+C:\Synergetics\CG_DotNet\Console1_For_GitJenkins\Console1_For_GitJenkins\bin\Debug\netcoreapp3.1\Console1_For_GitJenkins.dll
+C:\Synergetics\CG_DotNet\Console1_For_GitJenkins\Console1_For_GitJenkins\bin\Debug\netcoreapp3.1\Console1_For_GitJenkins.pdb
+C:\Synergetics\CG_DotNet\Console1_For_GitJenkins\Console1_For_GitJenkins\obj\Debug\netcoreapp3.1\Console1_For_GitJenkins.csproj.AssemblyReference.cache
+C:\Synergetics\CG_DotNet\Console1_For_GitJenkins\Console1_For_GitJenkins\obj\Debug\netcoreapp3.1\Console1_For_GitJenkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Synergetics\CG_DotNet\Console1_For_GitJenkins\Console1_For_GitJenkins\obj\Debug\netcoreapp3.1\Console1_For_GitJenkins.AssemblyInfoInputs.cache
+C:\Synergetics\CG_DotNet\Console1_For_GitJenkins\Console1_For_GitJenkins\obj\Debug\netcoreapp3.1\Console1_For_GitJenkins.AssemblyInfo.cs
+C:\Synergetics\CG_DotNet\Console1_For_GitJenkins\Console1_For_GitJenkins\obj\Debug\netcoreapp3.1\Console1_For_GitJenkins.csproj.CoreCompileInputs.cache
+C:\Synergetics\CG_DotNet\Console1_For_GitJenkins\Console1_For_GitJenkins\obj\Debug\netcoreapp3.1\Console1_For_GitJenkins.dll
+C:\Synergetics\CG_DotNet\Console1_For_GitJenkins\Console1_For_GitJenkins\obj\Debug\netcoreapp3.1\Console1_For_GitJenkins.pdb
+C:\Synergetics\CG_DotNet\Console1_For_GitJenkins\Console1_For_GitJenkins\obj\Debug\netcoreapp3.1\Console1_For_GitJenkins.genruntimeconfig.cache
